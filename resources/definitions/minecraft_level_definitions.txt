@@ -1,0 +1,90 @@
+
+# MINECRAFT THEMED LEVELS
+
+# Level 1
+
+START_LEVEL
+level_name:Minecraft Hill
+ball_velocities:45,5 -45,5 -30,5 30,5 45,5 -45,5 -30,5
+background:image(resources/background_images/minecraft_background_1.png)
+paddle_speed:7
+paddle_width:160
+block_definitions:resources/definitions/minecraft_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+------ddd
+-----ddsdd
+----ddsbsdd
+--dddsssssddd
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+
+START_LEVEL
+level_name:Minecraft Cave
+ball_velocities:45,5 -45,5 -30,5 30,5 45,5 -45,5 -30,5
+background:image(resources/background_images/minecraft_background_1.png)
+paddle_speed:7
+paddle_width:160
+block_definitions:resources/definitions/minecraft_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+ddddddddddddddd
+ddddddddddddddd
+ssssssbbsssssss
+sssb-------ssss
+bs-----------ss
+ss-----------bs
+ss-----------ss
+bssb-------ssss
+sssssssssssssss
+
+END_BLOCKS
+END_LEVEL
+
+END_BLOCKS
+END_LEVEL
+
+# Level 3
+
+START_LEVEL
+level_name:Minecraft Ground
+ball_velocities:45,5 -45,5 -30,5 30,5
+background:image(resources/background_images/minecraft_background_1.png)
+paddle_speed:7
+paddle_width:160
+block_definitions:resources/definitions/minecraft_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+-
+-
+-
+-ddddddddddddd
+-ddddddddddddd
+-sssssssssssss
+-ssbbssssssbss
+-ssbssssssbsss
+-sssssssssssss
+
+END_BLOCKS
+END_LEVEL
+

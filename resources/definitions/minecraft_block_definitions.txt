@@ -1,0 +1,10 @@
+# default values for blocks
+default height:25 width:50 stroke:color(black)
+
+# block definitions
+bdef symbol:d fill:image(resources/block_images/minecraft_dirt_block.png)
+bdef symbol:s fill:image(resources/block_images/minecraft_stone_block.png)
+bdef symbol:b fill:image(resources/block_images/minecraft_diamond_block.png)
+
+# spacers definitions
+sdef symbol:- width:50
